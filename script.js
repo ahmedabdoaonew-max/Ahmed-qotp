@@ -21,13 +21,13 @@
 // ===== TRANSLATIONS =====
 const translations = {
   en: {
-    logo: "AHMED ABDO",
+    logo: "AHMED QOTP",
     "nav-home": "01 // HOME",
     "nav-about": "02 // ABOUT ME",
     "nav-skills": "03 // SKILLS",
     "nav-projects": "04 // PROJECTS",
     "nav-contact": "05 // CONTACT",
-    "hero-subtitle": "AHMED ABDO // Software Engineer & Web Designer",
+    "hero-subtitle": "AHMED QOTP // Software Engineer & Web Designer",
     "hero-title-1": "I DESIGN & CODE",
     "hero-title-2": "DIGITAL EXPERIENCES",
     "hero-title-3": "THAT MAKE A",
@@ -41,7 +41,7 @@ const translations = {
     statement: 'From idea to launch, I craft <span class="red">clean, scalable digital products</span> — <span class="highlight">built to move fast</span>, stay simple, and perform in real-world use, driven by clarity, <span class="highlight">structured systems</span>, and intentional design.',
     "about-title": "Functional, aesthetic<br>design that adds<br>real value.",
     "about-lead": "High-performance, responsive, and visually stunning digital products.",
-    "about-text": "Software engineer specialized in building modern websites and web applications. I focus on clean code, responsive design, and creating digital experiences that solve real problems. Founder of Ao Company for smart web design.",
+    "about-text": "I'm Ahmed Qotp (also known as Ahmed Qotp), a software engineer and web designer based in Alexandria, Egypt. I build modern websites, web apps and management systems with React and Next.js, focusing on clean code and responsive design. I'm the founder of Ao Company, a studio for web design and digital product development.",
     "stat-1": "PROJECTS",
     "stat-2": "YEARS",
     "stat-3": "CLIENTS",
@@ -108,22 +108,22 @@ const translations = {
     "keep-touch": "Keep in touch",
     "need-help": "Need help?",
     "send-btn": "SEND MESSAGE →",
-    "cv-title": "Ahmed Abdo — Website Designer",
+    "cv-title": "Ahmed Qotp — Web Designer",
     "cv-desc": "View the full interactive resume and professional profile",
     "cv-btn": "View Full CV →",
     "footer-role": "Software Engineer & Web Designer",
-    "footer-copy": "© 2026 Ahmed Abdo. All Rights Reserved.",
+    "footer-copy": "© 2026 Ahmed Qotp. All Rights Reserved.",
     "email-ph": "Email address",
     "msg-ph": "Your message"
   },
   ar: {
-    logo: "AHMED ABDO",
+    logo: "AHMED QOTP",
     "nav-home": "01 // الرئيسية",
     "nav-about": "02 // عني",
     "nav-skills": "03 // المهارات",
     "nav-projects": "04 // المشاريع",
     "nav-contact": "05 // تواصل",
-    "hero-subtitle": "AHMED ABDO // مهندس برمجيات ومصمم مواقع",
+    "hero-subtitle": "AHMED QOTP // مهندس برمجيات ومصمم مواقع",
     "hero-title-1": "أصمم وأبرمج",
     "hero-title-2": "تجارب رقمية",
     "hero-title-3": "تصنع فرقاً",
@@ -137,7 +137,7 @@ const translations = {
     statement: 'من الفكرة للتنفيذ، أصنع <span class="red">منتجات رقمية نظيفة وقابلة للتوسع</span> — <span class="highlight">مبنية لتتحرك بسرعة</span>، وتبقى بسيطة، وتؤدي في الاستخدام الحقيقي، مدفوعة بالوضوح و<span class="highlight">الأنظمة المنظمة</span> والتصميم المقصود.',
     "about-title": "تصميم وظيفي<br>وجمالي يضيف<br>قيمة حقيقية.",
     "about-lead": "منتجات رقمية عالية الأداء ومتجاوبة ومذهلة بصرياً.",
-    "about-text": "مهندس برمجيات متخصص في بناء المواقع والتطبيقات الحديثة. أركز على الكود النظيف والتصميم المتجاوب وصنع تجارب رقمية تحل مشاكل حقيقية. مؤسس شركة Ao لتصميم المواقع الذكية.",
+    "about-text": "أنا أحمد قطب (أحمد عبدو)، مهندس برمجيات ومصمم مواقع من الإسكندرية، مصر. أبني مواقع وتطبيقات ويب وأنظمة إدارة حديثة باستخدام React وNext.js مع التركيز على الكود النظيف والتصميم المتجاوب. مؤسس شركة Ao Company المتخصصة في تصميم المواقع وتطوير المنتجات الرقمية.",
     "stat-1": "مشاريع",
     "stat-2": "سنوات",
     "stat-3": "عملاء",
@@ -204,11 +204,11 @@ const translations = {
     "keep-touch": "ابقَ على تواصل",
     "need-help": "محتاج مساعدة؟",
     "send-btn": "إرسال الرسالة →",
-    "cv-title": "أحمد عبده — مصمم المواقع",
+    "cv-title": "أحمد قطب — مصمم مواقع",
     "cv-desc": "اعرض السيرة الذاتية التفاعلية الكاملة والملف المهني",
     "cv-btn": "عرض السيرة الذاتية ←",
     "footer-role": "مهندس برمجيات ومصمم مواقع",
-    "footer-copy": "© 2026 Ahmed Abdo. جميع الحقوق محفوظة.",
+    "footer-copy": "© 2026 Ahmed Qotp. جميع الحقوق محفوظة.",
     "email-ph": "البريد الإلكتروني",
     "msg-ph": "رسالتك"
   }
@@ -393,4 +393,4 @@ document.querySelectorAll(".about, .services, .interactive, .experience, .skills
 });
 
 window.addEventListener("load", animateSkillBars);
-console.log("%c🚀 Portfolio by Ahmed Abdo", "color: #ef4444; font-size: 16px; font-weight: bold;");
+console.log("%c🚀 Portfolio by Ahmed Qotp", "color: #ef4444; font-size: 16px; font-weight: bold;");
